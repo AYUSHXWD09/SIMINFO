@@ -1,0 +1,10 @@
+pkg install nodejs-lts
+pkg install nodejs
+npm install -g truecallerjs
+npm install -g npm@10.2.3
+truecallerjs login
+truecallerjs -s (NUMBER) --text
+
+
+
+https://github.com/AYUSHXWD09 Follow For More! 
